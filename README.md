@@ -1,12 +1,5 @@
-# Muhammad Rayhan
-Selamat datang di profil GitHub saya! 👋
+# Hai, Saya Muhammad Rayhan! 👋
 
-Saya adalah Muhammad Rayhan, seorang Mahasiswa dengan ketertarikan pada Teknologi, Pengembangan Perangkat Lunak, dsb. Saya berkomitmen untuk belajar dan berkontribusi di dunia pengembangan perangkat lunak.
-
-
-## Keahlian
-
-- 💻 Bahasa Pemrograman: [PHP, Python]
-- 🛠️ Teknologi dan Alat: [Laravel, CodeIgniter, Django]
+Selamat datang! Saya adalah seorang mahasiswa yang tertarik banget sama teknologi dan pengembangan perangkat lunak. Gw berkomitmen buat terus belajar dan nyumbang ide di dunia pengembangan perangkat lunak.
 
 Terima kasih telah mengunjungi profil saya! 😊
