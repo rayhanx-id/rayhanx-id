@@ -1,6 +1,12 @@
-### Hi 👋
+# Muhammad Rayhan
+Selamat datang di profil GitHub saya! 👋
 
-I am a "Penetration Tester / Bug Bounty Hunter" who is quite experienced (4 years) in testing the security of a web and mobile android application specialist
-<br><br>
-### Get Award From (Acknowledge):
-##### <a href="">Google</a> - <a href="">Facebook</a> - <a href="">Shoppe</a> - <a href="">Bukalapak</a> - <a href="">Tiktok</a>, Etc.
+Saya adalah Muhammad Rayhan, seorang Mahasiswa dengan ketertarikan pada Teknologi, Pengembangan Perangkat Lunak, dsb. Saya berkomitmen untuk belajar dan berkontribusi di dunia pengembangan perangkat lunak.
+
+
+## Keahlian
+
+- 💻 Bahasa Pemrograman: [PHP, Python]
+- 🛠️ Teknologi dan Alat: [Laravel, CodeIgniter, Django]
+
+Terima kasih telah mengunjungi profil saya! 😊
